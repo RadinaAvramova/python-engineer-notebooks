@@ -1,2 +1,1 @@
-# python-engineer-notebooks
-python-engineer-notebooks
+# Collection of Jupyter Notebooks for the website
